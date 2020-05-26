@@ -1,21 +1,9 @@
 # gatsby-advanced-blog
 > Gatsby starter for advanced blog
 
-## Install
-```
-$ git clone git@github.com:wonism/gatsby-advanced-blog.git <<PROJECT_NAME>>
-# Recommend you to delete `.git`
-$ cd <<PROJECT_NAME>> && rm -r .git
-```
-
-## Start with gatsby-cli
-```
-$ gatsby new <<PROJECT_NAME>> https://github.com/wonism/gatsby-advanced-blog
-```
-
 ## Development
 ```
-$ npm run dev
+$ yarn dev
 ```
 
 ## Build
